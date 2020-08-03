@@ -1,0 +1,2 @@
+Complete a implementação do TAD Lista Indexadas anexa definindo as funções aludidas mas não implementadas: remover, esta vazia e acrescentar.
+Envie os arquivos separados! Só precisa do .h e .c da lista.

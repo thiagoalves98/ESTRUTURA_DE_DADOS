@@ -1,0 +1,5 @@
+Utilizando como base o código de lista ligada feito em sala, implemente duas novas funções na lista:
+ - InsereEmOrdem: adiciona um novo elemento na lista na posicao adequada para que ela continue ordenada (já está comentado o protótipo, mas provavelmente precisará ser alterado). Considere também o caso da lista estar vazia e o elemento inserido seja o primeiro (necessitará que a lista aponte para esse novo elemento, consulte o InsereElemento).
+ - Media: Calcula e retorna a média de todos os elementos na lista.
+
+ATENÇÃO: implemente essas duas funções SEM utilizar as funções já implementadas (ObtemElemento e outras). Ou seja, implemente acessando os nós da lista diretamente (para poder aprender a percorrer a lista manualmente e inserir também manipulando os ponteiros dos nós).
